@@ -1,0 +1,1 @@
+A simple guessing game to entertain. The user gets three chances to guess correctly from the options displayed or the game is over. Have fun :-)
